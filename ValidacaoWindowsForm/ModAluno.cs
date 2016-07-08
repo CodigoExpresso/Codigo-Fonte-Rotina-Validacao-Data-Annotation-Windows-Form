@@ -31,6 +31,6 @@ namespace ValidacaoWindowsForm
 
         [Display(Name = "Data Cadastro")]
         [DataBrasil(DataRequerida=true,ErrorMessage="Data de Cadastro inválida")]
-        public DateTime Cadastro {get;set;}
+        public DateTime? Cadastro {get;set;}
     }
 }

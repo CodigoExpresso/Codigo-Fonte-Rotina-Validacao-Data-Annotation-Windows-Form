@@ -6,3 +6,11 @@ D:\VideoAulas\ValidacaoWindowsForm\ValidacaoWindowsForm\bin\Debug\ValidacaoWindo
 D:\VideoAulas\ValidacaoWindowsForm\ValidacaoWindowsForm\obj\Debug\ValidacaoWindowsForm.exe
 D:\VideoAulas\ValidacaoWindowsForm\ValidacaoWindowsForm\obj\Debug\ValidacaoWindowsForm.pdb
 D:\VideoAulas\ValidacaoWindowsForm\ValidacaoWindowsForm\obj\Debug\ValidacaoWindowsForm.Form1.resources
+C:\prjgit\Video Aula Codigo\ValidacaoWindowsForm\ValidacaoWindowsForm\obj\Debug\ValidacaoWindowsForm.exe
+C:\prjgit\Video Aula Codigo\ValidacaoWindowsForm\ValidacaoWindowsForm\obj\Debug\ValidacaoWindowsForm.pdb
+C:\prjgit\Video Aula Codigo\ValidacaoWindowsForm\ValidacaoWindowsForm\obj\Debug\ValidacaoWindowsForm.csprojResolveAssemblyReference.cache
+C:\prjgit\Video Aula Codigo\ValidacaoWindowsForm\ValidacaoWindowsForm\obj\Debug\ValidacaoWindowsForm.Form1.resources
+C:\prjgit\Video Aula Codigo\ValidacaoWindowsForm\ValidacaoWindowsForm\obj\Debug\ValidacaoWindowsForm.Properties.Resources.resources
+C:\prjgit\Video Aula Codigo\ValidacaoWindowsForm\ValidacaoWindowsForm\obj\Debug\ValidacaoWindowsForm.csproj.GenerateResource.Cache
+C:\prjgit\Video Aula Codigo\ValidacaoWindowsForm\ValidacaoWindowsForm\bin\Debug\ValidacaoWindowsForm.exe
+C:\prjgit\Video Aula Codigo\ValidacaoWindowsForm\ValidacaoWindowsForm\bin\Debug\ValidacaoWindowsForm.pdb

@@ -29,6 +29,15 @@ namespace ValidacaoWindowsForm
                 aluno.Id = 0;
             }
 
+            try
+            {
+                aluno.Cadastro = Convert.ToDateTime(txtCadastro.Text);
+            }
+            catch
+            {
+                aluno.Cadastro = null;
+            }
+
             aluno.Nome = txtNome.Text;
             aluno.Email = txtEmail.Text;
 
@@ -44,5 +53,7 @@ namespace ValidacaoWindowsForm
         {
             Close();
         }
+
+       
     }
 }

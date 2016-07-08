@@ -46,6 +46,8 @@ namespace ValidacaoWindowsForm
             this.txtNome = new System.Windows.Forms.TextBox();
             this.txtID = new System.Windows.Forms.TextBox();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
+            this.label3 = new System.Windows.Forms.Label();
+            this.txtCadastro = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // btnGravar
@@ -136,11 +138,31 @@ namespace ValidacaoWindowsForm
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "www.codigoexpresso.com.br";
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(13, 146);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(63, 16);
+            this.label3.TabIndex = 17;
+            this.label3.Text = "Cadastro";
+            // 
+            // txtCadastro
+            // 
+            this.txtCadastro.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtCadastro.Location = new System.Drawing.Point(105, 141);
+            this.txtCadastro.Name = "txtCadastro";
+            this.txtCadastro.Size = new System.Drawing.Size(96, 22);
+            this.txtCadastro.TabIndex = 18;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(440, 231);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.txtCadastro);
             this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.btnGravar);
             this.Controls.Add(this.button2);
@@ -168,6 +190,8 @@ namespace ValidacaoWindowsForm
         private System.Windows.Forms.TextBox txtNome;
         private System.Windows.Forms.TextBox txtID;
         private System.Windows.Forms.LinkLabel linkLabel1;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox txtCadastro;
     }
 }
 
