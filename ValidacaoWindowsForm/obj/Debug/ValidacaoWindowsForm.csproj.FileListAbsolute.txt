@@ -1,0 +1,8 @@
+D:\VideoAulas\ValidacaoWindowsForm\ValidacaoWindowsForm\obj\Debug\ValidacaoWindowsForm.csprojResolveAssemblyReference.cache
+D:\VideoAulas\ValidacaoWindowsForm\ValidacaoWindowsForm\obj\Debug\ValidacaoWindowsForm.Properties.Resources.resources
+D:\VideoAulas\ValidacaoWindowsForm\ValidacaoWindowsForm\obj\Debug\ValidacaoWindowsForm.csproj.GenerateResource.Cache
+D:\VideoAulas\ValidacaoWindowsForm\ValidacaoWindowsForm\bin\Debug\ValidacaoWindowsForm.exe
+D:\VideoAulas\ValidacaoWindowsForm\ValidacaoWindowsForm\bin\Debug\ValidacaoWindowsForm.pdb
+D:\VideoAulas\ValidacaoWindowsForm\ValidacaoWindowsForm\obj\Debug\ValidacaoWindowsForm.exe
+D:\VideoAulas\ValidacaoWindowsForm\ValidacaoWindowsForm\obj\Debug\ValidacaoWindowsForm.pdb
+D:\VideoAulas\ValidacaoWindowsForm\ValidacaoWindowsForm\obj\Debug\ValidacaoWindowsForm.Form1.resources
