@@ -26,7 +26,7 @@ public static class Validacao
     /// Responsavel pela Chamada da validação de nosso Modelo
     /// </summary>
     /// <param name="obj">Modelo (Classe)</param>
-    /// <returns>String com erros ou null se não existir erros</returns>
+    /// <returns>(true) se a validação foi feita dom sucesso (False) se encontrou erros Apresenta mensagem com o erros </returns>
     public static Boolean ValidarModelo(object obj)
     {
         var erros = Validacao.getValidationErros(obj);
@@ -37,7 +37,9 @@ public static class Validacao
             strErros += error.ErrorMessage + Environment.NewLine;
         }
         if (strErros.Length>0)
-        {
+        {  
+            // Se existirem erros apresenta Mensagem com a listagem de erros, 
+            // você pode modificar esta classe para retornar a listagem dos erros e apresentar em um label em seu formulario 
             strErros = "Corrija os problemas abaixo: " + Environment.NewLine + Environment.NewLine + strErros;
             MessageBox.Show(strErros, "Erros", MessageBoxButtons.OK, MessageBoxIcon.Error);
             return false;
